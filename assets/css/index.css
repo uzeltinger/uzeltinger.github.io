@@ -11,3 +11,9 @@
 .renglon {
     margin-bottom: 0;
 }
+.table-estudios tbody {
+    font-size: 14px;
+}
+.experiencia h3 {    
+    font-size: 24px;
+}
