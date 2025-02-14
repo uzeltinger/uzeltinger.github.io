@@ -17,3 +17,8 @@
 .experiencia h3 {    
     font-size: 24px;
 }
+@media print {
+    .container, .container-sm {
+        max-width: 100%;
+    }
+}
